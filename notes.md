@@ -3,6 +3,8 @@
 ##Scoop
 
 ##Nerd fonts
+scoop bucket add nerd-fonts
+scoop install Hack-NF
 
 ##Oh My Posh
 scoop install https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json
